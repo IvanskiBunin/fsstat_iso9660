@@ -1,3 +1,5 @@
+Note: the original .iso files that this code was tested on have been removed since they're too large to fit in this repository.
+
 The project consists of two different python files: fsstat_iso9660.py and fsstat_iso96602.py.
 The first python file parses ISO9660 images in which all files in the system are contained in the primary volume descriptor. It can be tested by running the program fsstat_iso9660_test.py at the command line. To run it on an arbitrary .iso file would require running the python interpreter and running the commands:
 
