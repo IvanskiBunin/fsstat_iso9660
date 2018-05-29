@@ -1,0 +1,14 @@
+The project consists of two different python files: fsstat_iso9660.py and fsstat_iso96602.py.
+The first python file parses ISO9660 images in which all files in the system are contained in the primary volume descriptor. It can be tested by running the program fsstat_iso9660_test.py at the command line. To run it on an arbitrary .iso file would require running the python interpreter and running the commands:
+
+import fsstat_iso9660
+with open("samplefile.iso", "rb") as f:
+	fsstat_iso9660.fsstat_iso9660(f)
+
+which will produce the output of the fsstat program from The Sleuth Kit. 
+
+The file fsstat_iso96602.py attempts to parse .iso images which have different files stored in both the primary volume descriptor and supplmentary volume descriptor. Specifically it attempts to handle the first two test cases as outlined here: https://www.dfrws.org/sites/default/files/session-files/paper-different_interpretations_of_iso9660_file_systems.pdf. It can be run in a similar manner as the first python file. It doesn't pass all the test cases in fsstat_iso96602_test.py, however, as I didn't figure out a way to make it work completely. To test it on an arbitrary python file requires running the python interpreter and running the commands:
+
+import fsstat_iso96602
+with open("samplefile.iso", "rb") as f:
+	fsstat_iso96602.fsstat_iso9660(f)

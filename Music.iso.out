@@ -1,0 +1,49 @@
+=== PRIMARY VOLUME DESCRIPTOR 1 ===
+FILE SYSTEM INFORMATION
+--------------------------------------------
+File System Type: ISO9660
+Volume Name: MUSIC
+Volume Set Size: 1
+Volume Set Sequence: 1
+Publisher:  
+Data Preparer:  
+Recording Application:  
+Copyright:  
+
+METADATA INFORMATION
+--------------------------------------------
+Path Table Location: 19-22
+Inode Range: 0 - 891
+Root Directory Block: 27
+
+CONTENT INFORMATION
+--------------------------------------------
+Sector Size: 2048
+Block Size: 2048
+Total Sector Range: 0 - 57118
+Total Block Range: 0 - 57118
+
+=== SUPPLEMENTARY VOLUME DESCRIPTOR 1 ===
+FILE SYSTEM INFORMATION
+--------------------------------------------
+File System Type: ISO9660
+Volume Name: 
+Volume Set Size: 1
+Volume Set Sequence: 1
+Publisher:  
+Data Preparer:  
+Recording Application:  
+Copyright:  
+
+METADATA INFORMATION
+--------------------------------------------
+Path Table Location: 658-661
+Root Directory Block: 666
+Joliet Name Encoding: UCS-2 Level 1
+
+CONTENT INFORMATION
+--------------------------------------------
+Sector Size: 2048
+Block Size: 2048
+Total Sector Range: 0 - 57118
+Total Block Range: 0 - 57118

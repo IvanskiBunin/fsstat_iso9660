@@ -1,0 +1,50 @@
+=== PRIMARY VOLUME DESCRIPTOR 1 ===
+FILE SYSTEM INFORMATION
+--------------------------------------------
+File System Type: ISO9660
+Volume Name: ISO9660 Orphan Test 1           
+Volume Set Size: 1
+Volume Set Sequence: 1
+Publisher:  
+Data Preparer:  
+Recording Application: GENISOIMAGE ISO 9660/HFS FILESYSTEM CREATOR (C) 1993 E.YOUNGDALE (C) 1997-2006 J.PEARSON/J.SCHILLING (C) 2006-2007 CDRKIT TEAM
+Copyright:  
+
+METADATA INFORMATION
+--------------------------------------------
+Path Table Location: 22-22
+Inode Range: 0 - 3
+Root Directory Block: 28
+
+CONTENT INFORMATION
+--------------------------------------------
+Sector Size: 2048
+Block Size: 2048
+Total Sector Range: 0 - 182
+Total Block Range: 0 - 182
+
+=== SUPPLEMENTARY VOLUME DESCRIPTOR 1 ===
+FILE SYSTEM INFORMATION
+--------------------------------------------
+File System Type: ISO9660
+Volume Name: 
+Volume Set Size: 1
+Volume Set Sequence: 1
+Publisher: 
+Data Preparer: 
+Recording Application: 
+Copyright: 
+
+METADATA INFORMATION
+--------------------------------------------
+Path Table Location: 26-26
+Root Directory Block: 29
+Joliet Name Encoding: UCS-2 Level 3
+RockRidge Extensions present
+
+CONTENT INFORMATION
+--------------------------------------------
+Sector Size: 2048
+Block Size: 2048
+Total Sector Range: 0 - 182
+Total Block Range: 0 - 182

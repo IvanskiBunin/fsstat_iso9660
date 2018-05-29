@@ -1,0 +1,49 @@
+=== PRIMARY VOLUME DESCRIPTOR 1 ===
+FILE SYSTEM INFORMATION
+--------------------------------------------
+File System Type: ISO9660
+Volume Name: MINECRAFT
+Volume Set Size: 1
+Volume Set Sequence: 1
+Publisher:  
+Data Preparer:  
+Recording Application:  
+Copyright:  
+
+METADATA INFORMATION
+--------------------------------------------
+Path Table Location: 19-19
+Inode Range: 0 - 50
+Root Directory Block: 21
+
+CONTENT INFORMATION
+--------------------------------------------
+Sector Size: 2048
+Block Size: 2048
+Total Sector Range: 0 - 8830
+Total Block Range: 0 - 8830
+
+=== SUPPLEMENTARY VOLUME DESCRIPTOR 1 ===
+FILE SYSTEM INFORMATION
+--------------------------------------------
+File System Type: ISO9660
+Volume Name: 
+Volume Set Size: 1
+Volume Set Sequence: 1
+Publisher:  
+Data Preparer:  
+Recording Application:  
+Copyright:  
+
+METADATA INFORMATION
+--------------------------------------------
+Path Table Location: 31-31
+Root Directory Block: 33
+Joliet Name Encoding: UCS-2 Level 1
+
+CONTENT INFORMATION
+--------------------------------------------
+Sector Size: 2048
+Block Size: 2048
+Total Sector Range: 0 - 8830
+Total Block Range: 0 - 8830

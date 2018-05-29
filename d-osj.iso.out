@@ -1,0 +1,24 @@
+=== PRIMARY VOLUME DESCRIPTOR 1 ===
+FILE SYSTEM INFORMATION
+--------------------------------------------
+File System Type: ISO9660
+Volume Name:                                 
+Volume Set Size: 1
+Volume Set Sequence: 1
+Publisher:  
+Data Preparer:  
+Recording Application: PSP GAME
+Copyright:  
+
+METADATA INFORMATION
+--------------------------------------------
+Path Table Location: 20-20
+Inode Range: 0 - 26
+Root Directory Block: 22
+
+CONTENT INFORMATION
+--------------------------------------------
+Sector Size: 2048
+Block Size: 2048
+Total Sector Range: 0 - 276815
+Total Block Range: 0 - 276815

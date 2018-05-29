@@ -1,0 +1,24 @@
+=== PRIMARY VOLUME DESCRIPTOR 1 ===
+FILE SYSTEM INFORMATION
+--------------------------------------------
+File System Type: ISO9660
+Volume Name: DLC_0716                        
+Volume Set Size: 1
+Volume Set Sequence: 1
+Publisher: MICROSOFT CORPORATION
+Data Preparer: MICROSOFT CORPORATION, ONE MICROSOFT WAY, REDMOND WA 98052, (425) 882-8080
+Recording Application: CDIMAGE 2.54 (01/01/2005 TM)
+Copyright:  
+
+METADATA INFORMATION
+--------------------------------------------
+Path Table Location: 20-21
+Inode Range: 0 - 391
+Root Directory Block: 22
+
+CONTENT INFORMATION
+--------------------------------------------
+Sector Size: 2048
+Block Size: 2048
+Total Sector Range: 0 - 428115
+Total Block Range: 0 - 428115

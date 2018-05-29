@@ -1,0 +1,24 @@
+=== PRIMARY VOLUME DESCRIPTOR 1 ===
+FILE SYSTEM INFORMATION
+--------------------------------------------
+File System Type: ISO9660
+Volume Name: MEGAMANMAVERICKHUNTERX          
+Volume Set Size: 1
+Volume Set Sequence: 1
+Publisher: CAPCOM CO.,LTD.
+Data Preparer: CAPCOM CO.,LTD.
+Recording Application: PSP GAME
+Copyright:  
+
+METADATA INFORMATION
+--------------------------------------------
+Path Table Location: 20-20
+Inode Range: 0 - 32
+Root Directory Block: 22
+
+CONTENT INFORMATION
+--------------------------------------------
+Sector Size: 2048
+Block Size: 2048
+Total Sector Range: 0 - 229743
+Total Block Range: 0 - 229743
